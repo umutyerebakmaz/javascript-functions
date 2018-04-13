@@ -15,3 +15,5 @@ async function calculateAge (birthDate, otherDate) {
 
 const age = calculateAge("10/12/1979", "12/04/2018"); // Format: MM/DD/YYYY
 console.log(age);
+
+
