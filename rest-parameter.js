@@ -8,4 +8,4 @@ function sumUp(...toAdd){
   return result;
 }
 
-console.log(sumUp(50,30,124));
+console.log(sumUp(32,64,128));
