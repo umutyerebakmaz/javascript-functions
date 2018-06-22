@@ -14,3 +14,5 @@ console.log(deck);
 // Map {
 //  'as' => { name: 'Ace of Spades' },
 //  'kc' => { name: 'King Of Clubs' } }
+
+deck.delete('as); // key:any
