@@ -15,4 +15,4 @@ console.log(deck);
 //  'as' => { name: 'Ace of Spades' },
 //  'kc' => { name: 'King Of Clubs' } }
 
-deck.delete('as); // key:any
+deck.delete('as'); // key:any
