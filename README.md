@@ -1,2 +1,2 @@
 # javascript-functions
-pure javascript function collection
+usefull pure javascript function collection by umut yerebakmaz
